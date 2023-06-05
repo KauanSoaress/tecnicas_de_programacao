@@ -1,2 +1,4 @@
-package PACKAGE_NAME;public class Mesa {
+// Decorator - Component
+abstract class Mesa {
+    abstract void executar();
 }
